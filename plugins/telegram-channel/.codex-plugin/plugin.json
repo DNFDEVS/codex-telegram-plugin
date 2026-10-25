@@ -6,8 +6,8 @@
     "name": "tmrcodes",
     "url": "https://github.com/tmrcodes"
   },
-  "homepage": "https://github.com/tmrcodes/codex-telegram-plugin#readme",
-  "repository": "https://github.com/tmrcodes/codex-telegram-plugin",
+  "homepage": "https://github.com/DNFDEVS/codex-telegram-plugin#readme",
+  "repository": "https://github.com/DNFDEVS/codex-telegram-plugin",
   "license": "MIT",
   "keywords": ["telegram", "messaging", "channel", "mcp", "codex"],
   "skills": "./skills/",
@@ -19,7 +19,7 @@
     "developerName": "tmrcodes",
     "category": "Productivity",
     "capabilities": [],
-    "websiteURL": "https://github.com/tmrcodes/codex-telegram-plugin",
+    "websiteURL": "https://github.com/DNFDEVS/codex-telegram-plugin",
     "defaultPrompt": [
       "Show the status of my Telegram channel",
       "Configure the Telegram channel with my BotFather token",
