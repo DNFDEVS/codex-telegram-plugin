@@ -24,7 +24,7 @@ keep the complete token it gives you (`123456789:AAH…`).
 **2. Install the plugin.**
 
 ```sh
-codex plugin marketplace add tmrcodes/codex-telegram-plugin
+codex plugin marketplace add DNFDEVS/codex-telegram-plugin
 codex plugin add telegram-channel@codex-telegram
 ```
 
